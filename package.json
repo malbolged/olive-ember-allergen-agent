@@ -1,0 +1,9 @@
+{
+  "name": "allergen-safe-menu-agent",
+  "private": true,
+  "scripts": {
+    "dev:studio": "pnpm --filter studio dev",
+    "dev:app": "pnpm --filter app dev",
+    "seed": "pnpm --filter studio seed"
+  }
+}
